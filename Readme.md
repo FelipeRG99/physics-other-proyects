@@ -9,11 +9,11 @@ Simulation numerically and analitically of hte heat distributuion resolving the 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <video width="400" controls>
-    <source src="Heat_distributions/results/heat_distribution_1D.mp4" type="video/mp4">
+    <source src="Heat_Equations\results\heat_distribution_1D.mp4" type="video/mp4">
   </video>
 
   <video width="400" controls>
-    <source src="Heat_distributions/results/heat_distribution_2D.mp4" type="video/mp4">
+    <source src="Heat_Equations\results\heat_distribution_2D.mp4" type="video/mp4">
   </video>
 </div>
 
@@ -25,11 +25,11 @@ This contains the resolution of the N-body problem using the BDF method to resol
 <div style="display: flex; justify-content: center; gap: 20px;">
   <video width="400" controls>
   <p><strong>3-Body Example</strong></p>
-    <source src="3/ImgVideo/3body.mp4" type="video/mp4">
+    <source src="N_Body\ImgVideo\3body.mp4" type="video/mp4">
   </video>
 
   <video width="400" controls>
   <p><strong>7-Body Example</strong></p>
-    <source src="3/ImgVideo/7body.mp4" type="video/mp4">
+    <source src="N_Body\ImgVideo\7body.mp4" type="video/mp4">
   </video>
 </div>
