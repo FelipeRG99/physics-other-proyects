@@ -8,13 +8,16 @@ Simulation numerically and analitically of hte heat distributuion resolving the 
 **Some results** 🎥
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <video width="400" controls>
-    <source src="Heat_Equations\results\heat_distribution_1D.mp4" type="video/mp4">
-  </video>
 
-  <video width="400" controls>
-    <source src="Heat_Equations\results\heat_distribution_2D.mp4" type="video/mp4">
-  </video>
+  <div style="text-align: center;">
+    <p><strong>1D Heat Distribution</strong></p>
+    <img src="Heat_Equations\results\heat_distribution_1D.gif" width="400">
+  </div>
+  <div style="text-align: center;">
+    <p><strong>1D Heat Distribution</strong></p>
+    <img src="Heat_Equations\results\heat_distribution_2D.gif" width="400">
+  </div>
+
 </div>
 
 # [N-body problem 🪐](N_body) 
@@ -23,13 +26,15 @@ This contains the resolution of the N-body problem using the BDF method to resol
 **Some results** 🎥
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <video width="400" controls>
-  <p><strong>3-Body Example</strong></p>
-    <source src="N_Body\ImgVideo\3body.mp4" type="video/mp4">
-  </video>
 
-  <video width="400" controls>
-  <p><strong>7-Body Example</strong></p>
-    <source src="N_Body\ImgVideo\7body.mp4" type="video/mp4">
-  </video>
+  <div style="text-align: center;">
+    <p><strong>3-Body Example</strong></p>
+      <img src="N_Body\ImgVideo\3body.gif" width="400">
+  </div>
+  
+  <div style="text-align: center;">
+    <p><strong>7-Body Example</strong></p>
+      <img src="N_Body\ImgVideo\7body.gif" width="400">
+  </div>
+
 </div>

@@ -29,7 +29,7 @@ sesion.info()
 Here, there is an automated version of all the implementation. You can specify the number of bodies (up to 10) and you will get a video of the simulation.
 <div align="center">
   <p><strong>3-Body Example</strong></p>
-  <img src="ImgVideo/3body.mp4" width="100%">
+  <img src="ImgVideo/3body.gif" width="100%">
 </div>
 
 # Results

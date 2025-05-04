@@ -11,13 +11,14 @@ Each simulation supports diferent boundary conditions. When you generate a simul
 # Results of simulation 🎥
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <video width="400" controls>
-    <source src="results/heat_distribution_1D.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
 
-  <video width="400" controls>
-    <source src="results/heat_distribution_2D.mp4" type="video/mp4">
-    Tu navegador no soporta la reproducción de video.
-  </video>
+  <div style="text-align: center;">
+    <p><strong>1D Heat Distribution</strong></p>
+    <img src="Heat_Equations\results\heat_distribution_1D.gif" width="400">
+  </div>
+  <div style="text-align: center;">
+    <p><strong>1D Heat Distribution</strong></p>
+    <img src="Heat_Equations\results\heat_distribution_2D.gif" width="400">
+  </div>
+
 </div>
